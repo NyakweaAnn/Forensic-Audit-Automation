@@ -11,4 +11,4 @@ This project demonstrates an automated approach to financial auditing using Pyth
 ## Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy
-* **Environment:** Google Colab / VS Code
+* **Environment:** Google Colab
